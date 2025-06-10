@@ -3,6 +3,15 @@ body {
 }
 
 h1 {
+    color: #92374D;
     text-align: center;
 }
 
+h2 {
+    color: #78586F;
+
+}
+
+p {
+    color: #422040;
+}
