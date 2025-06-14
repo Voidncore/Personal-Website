@@ -1,17 +1,35 @@
 body {
-    background-color: #7B9EA8;
+    background-color: #010B13;
 }
 
 h1 {
-    color: #92374D;
+    color: #422040;
     text-align: center;
 }
 
 h2 {
-    color: #78586F;
+    color: #11363B;
 
 }
 
-p {
-    color: #422040;
+#intro {
+    color: #E71D36;
+}
+
+#link {
+    color: #658E9C;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+#resume {
+    color: aquamarine;
+}
+
+strong {
+    color: #204B57;
 }
